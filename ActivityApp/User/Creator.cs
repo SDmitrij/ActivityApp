@@ -1,7 +1,7 @@
 ﻿using ActivityApp.User.Base.Interface;
 using System;
 
-namespace ActivityApp.User.Base
+namespace ActivityApp.User
 {
     public class Creator
     {

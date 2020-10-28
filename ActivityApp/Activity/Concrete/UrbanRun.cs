@@ -4,5 +4,6 @@ namespace ActivityApp.Activity.Concrete
 {
     public class UrbanRun : IHwolAble
     {
+
     }
 }

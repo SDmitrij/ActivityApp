@@ -1,4 +1,4 @@
-﻿using ActivityApp.User.Base;
+﻿using ActivityApp.User;
 using ActivityApp.User.Concrete;
 using System;
 
